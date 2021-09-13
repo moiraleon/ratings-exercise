@@ -1,0 +1,6 @@
+com/ratings/Movie.class
+com/ratings/Rating.class
+com/ratings/UserWithoutHibernate.class
+com/ratings/User.class
+com/ratings/DataSeeder.class
+com/ratings/Main.class
